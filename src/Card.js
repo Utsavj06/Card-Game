@@ -10,4 +10,5 @@ const Card = ({ cardInfo, handleClick }) => {
   );
 };
 
+//to test git functioality
 export default Card;
