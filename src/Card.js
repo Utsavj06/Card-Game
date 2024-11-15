@@ -1,5 +1,5 @@
 import { ImageSection, NameSection, CardContainer } from "./style";
-
+//to test git functioality
 const Card = ({ cardInfo, handleClick }) => {
   const { id, name, image, colorFamily } = cardInfo;
   return (
